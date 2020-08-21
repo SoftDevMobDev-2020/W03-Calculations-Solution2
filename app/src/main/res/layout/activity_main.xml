@@ -33,14 +33,12 @@
                 android:id="@+id/radioPlus"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="onRadioButtonClicked"
                 android:text="@string/plus" />
 
             <RadioButton
                 android:id="@+id/radioMult"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="onRadioButtonClicked"
                 android:text="times" />
         </RadioGroup>
 
